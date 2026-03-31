@@ -1,4 +1,4 @@
-# Tianee Carnakie
+
 ### Data Analyst
 
 Welcome to my data analytics portfolio.
