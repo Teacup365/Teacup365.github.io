@@ -33,6 +33,9 @@ BellaBeat should focus marketing on:
 ## Visualizations
 
 ![Activity Level Distribution](/bellabeat-case-study/images/Activity-Level-Distribution.png)
+
 ![Average Daily Sleep](bellabeat-case-study/images/Average-Daily-Sleep.png)
+
 ![Average Steps Per Day](bellabeat-case-study/images/Average-Steps-Per-Day.png)
+
 ![Steps vs Calories](bellabeat-case-study/images/Steps-vs-Calories.png)
