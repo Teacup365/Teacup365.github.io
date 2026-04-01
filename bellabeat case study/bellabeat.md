@@ -32,6 +32,8 @@ BellaBeat should focus marketing on:
 
 ## Visualizations
 
+https://github.com/Teacup365/Teacup365.github.io/blob/42bdd17ca7e50dbd2648fc7dcddc61ba6f8cd09d/bellabeat%20case%20study/images/Activity%20Level%20Distribution.png
+
 (bellabeat case study/images/Activity Level Distribution.png)
 
 (/bellabeat case study/images/Average Daily Sleep.png)
