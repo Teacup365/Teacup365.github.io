@@ -18,37 +18,26 @@ This repository contains projects demonstrating my ability to:
 
 ## Technical Skills
 
-
 Programming:
-
-• Python (Pandas, NumPy)
-
-• Linux
+- Python (Pandas, NumPy)
+- Linux
 
 
 Data Analysis:
-
-• SQL
-
-• Excel
-
-• R
+- SQL
+- Excel
+- R
 
 
 Visualization:
-
-• Tableau
+- Tableau
 
 
 Tools:
-
-• GitHub
-
-• Google Sheets
-
-• R Studio
-
-• Kaggle
+- GitHub
+- Google Sheets
+- R Studio
+- Kaggle
 
 ## Projects
 
