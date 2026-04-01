@@ -31,9 +31,9 @@ BellaBeat should focus marketing on:
 - Sleep tracking features
 
 ## Visualizations
-({{https://github.com/Teacup365/Teacup365.github.io/blob/main/bellabeat%20case%20study/images/Activity%20Level%20Distribution.png}}/bellabeat case study/images/Activity Level Distribution.png)
+(bellabeat case study/images/Activity Level Distribution.png)
 
-bellabeat case study/images/Average Daily Sleep.png
+(bellabeat case study/images/Average Daily Sleep.png)
 
 ![Steps Per Day](bellabeat case study/images/Average Steps Per Day.png)
 
