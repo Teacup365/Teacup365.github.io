@@ -29,3 +29,9 @@ BellaBeat should focus marketing on:
 - Fitness enthusiasts
 - Weekend activity promotions
 - Sleep tracking features
+
+## Visualizations
+bellabeat case study/images/Activity Level Distribution.png
+bellabeat case study/images/Average Daily Sleep.png
+bellabeat case study/images/Average Steps Per Day.png
+bellabeat case study/images/Steps vs Calories.png
