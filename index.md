@@ -50,5 +50,7 @@ This project analyzes smart device usage trends to provide marketing insights fo
 ## Contact
 
 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/tianee-carnakie-3a3357113/)  
+
 Email: tianeecarnakie@gmail.com
+
 Resume: [Download Resume](resume.pdf)
