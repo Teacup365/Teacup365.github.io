@@ -11,19 +11,20 @@ I specialize in:
 
 
 This repository contains projects demonstrating my ability to:
-
-• Clean data
-• Perform exploratory data analysis
-• Build dashboards
-• Extract business insights
+- Clean data
+- Perform exploratory data analysis
+ -Build dashboards
+- Extract business insights
 
 ## Technical Skills
+
 
 Programming:
 
 • Python (Pandas, NumPy)
 
 • Linux
+
 
 Data Analysis:
 
@@ -33,9 +34,11 @@ Data Analysis:
 
 • R
 
+
 Visualization:
 
 • Tableau
+
 
 Tools:
 
