@@ -11,6 +11,7 @@ I specialize in:
 
 
 This repository contains projects demonstrating my ability to:
+
 • Clean data
 • Perform exploratory data analysis
 • Build dashboards
@@ -19,18 +20,22 @@ This repository contains projects demonstrating my ability to:
 ## Technical Skills
 
 Programming
+
 • Python (Pandas, NumPy)
 • Linux
 
 Data Analysis
+
 • SQL
 • Excel
 • R
 
 Visualization
+
 • Tableau
 
 Tools
+
 • GitHub
 • Google Sheets
 • R Studio
