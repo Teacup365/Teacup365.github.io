@@ -46,7 +46,7 @@ Tools: Google Sheets, SQL
 
 This project analyzes smart device usage trends to provide marketing insights for BellaBeat.
 
-[View Project]((https://github.com/Teacup365/Teacup365.github.io/tree/main/bellabeat-case-study))
+[View Project](https://github.com/Teacup365/Teacup365.github.io/tree/main/bellabeat-case-study)
 
 ---
 
