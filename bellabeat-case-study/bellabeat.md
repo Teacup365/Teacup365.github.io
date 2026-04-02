@@ -14,15 +14,25 @@ Analyze smart device usage data to help BellaBeat improve marketing strategy.
 Data was imported into a relational database and analyzed using SQL queries.
 
 Example query used to classify activity levels:
+
 SELECT
+
     CASE
+    
         WHEN TotalSteps < 5000 THEN 'Sedentary'
+        
         WHEN TotalSteps BETWEEN 5000 AND 10000 THEN 'Moderately Active'
+        
         ELSE 'Active'
+        
     END AS activity_level,
+    
     COUNT(*) AS users
+    
 FROM daily_activity
+
 GROUP BY activity_level;
+
 
 ## Process
 
