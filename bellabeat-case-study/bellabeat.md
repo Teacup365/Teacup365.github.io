@@ -5,17 +5,7 @@ Analyze smart device usage data to help BellaBeat improve marketing strategy.
 
 ## Data Sources
 
-Factor        Explanation
-
-Reliable        Only 30 users (small sample)
-
-Original        Public Fitbit dataset
-
-Comprehensive        Includes activity, sleep, calories
-
-Current        Data from 2016
-
-Cited        Provided via Kaggle
+The dataset contains Fitbit data from 30 consenting users and includes information on activity, sleep, and calorie expenditure. While the dataset is useful for identifying patterns in smart device usage, the small sample size may limit how representative it is of the broader population.
 
 ## Tools Used
 - Google Sheets
