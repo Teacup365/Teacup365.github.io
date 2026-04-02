@@ -39,3 +39,5 @@ BellaBeat should focus marketing on:
 ![Average Steps Per Day](/bellabeat-case-study/images/Average-Steps-Per-Day.png)
 
 ![Steps vs Calories](/bellabeat-case-study/images/Steps-vs-Calories.png)
+
+![Average Daily Activity](/bellabeat-case-study/images/Average-Daily-Activity.png)
