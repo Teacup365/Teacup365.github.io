@@ -28,11 +28,8 @@ SELECT
     END AS activity_level,
     
     COUNT(*) AS users
-    
-FROM daily_activity
-
-GROUP BY activity_level;
-
+    FROM daily_activity
+    GROUP BY activity_level;
 
 ## Process
 
