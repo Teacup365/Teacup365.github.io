@@ -16,7 +16,7 @@ The dataset contains Fitbit data from 30 consenting users and includes informati
 
 Data was imported into a relational database and analyzed using SQL queries.
 
-[SQL Queries](bellabeat-case-study/sql).
+[SQL Queries](https://github.com/Teacup365/Teacup365.github.io/tree/main/bellabeat-case-study/sql).
 
 Example query used to classify activity levels:
 
