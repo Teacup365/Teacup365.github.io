@@ -7,6 +7,8 @@ Analyze smart device usage data to help BellaBeat improve marketing strategy.
 
 The dataset contains Fitbit data from 30 consenting users and includes information on activity, sleep, and calorie expenditure. While the dataset is useful for identifying patterns in smart device usage, the small sample size may limit how representative it is of the broader population.
 
+[Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
+
 ## Tools Used
 - Google Sheets
 - SQL
