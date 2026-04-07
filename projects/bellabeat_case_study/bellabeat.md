@@ -16,25 +16,18 @@ The dataset contains Fitbit data from 30 consenting users and includes informati
 
 Data was imported into a relational database and analyzed using SQL queries.
 
-[SQL Queries](https://github.com/Teacup365/Teacup365.github.io/tree/main/bellabeat-case-study/sql).
+[SQL Queries](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL).
 
-Example query used to classify activity levels:
+Example query used to classify sleep levels:
 
+CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.sleepydayclean` AS
 SELECT
-
-    CASE
-    
-        WHEN TotalSteps < 5000 THEN 'Sedentary'
-        
-        WHEN TotalSteps BETWEEN 5000 AND 10000 THEN 'Moderately Active'
-        
-        ELSE 'Active'
-        
-    END AS activity_level,
-    
-    COUNT(*) AS users
-    FROM daily_activity
-    GROUP BY activity_level;
+Id,
+DATE(SleepDay) AS SleepDate,
+TotalSleepRecords,
+TotalMinutesAsleep,
+TotalTimeInBed
+FROM `avid-lacing-483619-b2.bellabeat.sleepyday`;
 
 ## Process
 
@@ -59,12 +52,12 @@ BellaBeat should focus marketing on:
 
 ## Visualizations
 
-![Activity Level Distribution](/bellabeat-case-study/images/Activity-Level-Distribution.png)
+![Activity Level Distribution](/projects/bellabeat_case_study/images/Activity-Level-Distribution.png)
 
-![Average Daily Sleep](/bellabeat-case-study/images/Average-Daily-Sleep.png)
+![Average Daily Sleep](/projects/bellabeat_case_study/images/Average-Daily-Sleep.png)
 
-![Average Steps Per Day](/bellabeat-case-study/images/Average-Steps-Per-Day.png)
+![Average Steps Per Day](/projects/bellabeat_case_study/images/Average-Steps-Per-Day.png)
 
-![Steps vs Calories](/bellabeat-case-study/images/Steps-vs-Calories.png)
+![Steps vs Calories](/projects/bellabeat_case_study/images/Steps-vs-Calories.png)
 
-![Average Daily Activity](/bellabeat-case-study/images/Average-Daily-Activity.png)
+![Average Daily Activity](/projects/bellabeat_case_study/images/Average-Daily-Activity.png)
