@@ -56,4 +56,4 @@ LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/tianee-carnakie-3a3
 
 Email: 📧tianeecarnakie@gmail.com
 
-Resume: [Download Resume](resume/Resme_Updated.pdf)
+Resume: [Download Resume](https://github.com/Teacup365/Teacup365.github.io/blob/main/projects/resume/Resme%20Updated.pdf)
