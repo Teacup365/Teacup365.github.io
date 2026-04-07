@@ -46,7 +46,7 @@ Tools: Google Sheets, SQL
 
 This project analyzes smart device usage trends to provide marketing insights for BellaBeat.
 
-[View Project](https://github.com/Teacup365/Teacup365.github.io/blob/main/bellabeat-case-study/bellabeat.md)
+[View Project](https://github.com/Teacup365/Teacup365.github.io/blob/main/projects/bellabeat_case_study/bellabeat.md)
 
 ---
 
@@ -56,4 +56,4 @@ LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/tianee-carnakie-3a3
 
 Email: 📧tianeecarnakie@gmail.com
 
-Resume: [Download Resume](https://github.com/Teacup365/Teacup365.github.io/blob/main/projects/resume/Resme%20Updated.pdf)
+Resume: [Download Resume](projects/resume/Resme_Updated.pdf)
