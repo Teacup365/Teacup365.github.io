@@ -18,23 +18,14 @@ Data was imported into a relational database and analyzed using SQL queries.
 
 [SQL Queries](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL).
 
-Example query used to classify sleep levels:
+Example query used to classify activity levels:
 
-CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.sleepydayclean` AS
-  
-  SELECT
- 
-  Id,
-  
-  DATE(SleepDay) AS SleepDate,
-  
-  TotalSleepRecords,
-  
-  TotalMinutesAsleep,
- 
-  TotalTimeInBed
-  
-  FROM `avid-lacing-483619-b2.bellabeat.sleepyday`;
+SELECT
+AVG(VeryActiveMinutes) AS avg_very_active,
+AVG(FairlyActiveMinutes) AS avg_fairly_active,
+AVG(LightlyActiveMinutes) AS avg_lightly_active,
+AVG(SedentaryMinutes) AS avg_sedentary
+FROM `avid-lacing-483619-b2.bellabeat.dailyactivityclean`;
 
 ## Process
 
