@@ -38,9 +38,9 @@ The 2008 Financial Crisis resulted in a prolonged market decline and recovery pe
 
 
 ## Dashboard / Visuals
-(projects/stock_market_analysis/visualizations/avg_annual_daily_returns.png)
-(projects/stock_market_analysis/visualizations/closing_price_over_time.png)
-(projects/stock_market_analysis/visualizations/moving_avg.png)
-(projects/stock_market_analysis/visualizations/volatility.png)
-(projects/stock_market_analysis/visualizations/covid_19_market_crash.png)
-(projects/stock_market_analysis/visualizations/2008_financial_crisis.png)
+![Daily Returns](projects/stock_market_analysis/visualizations/avg_annual_daily_returns.png)
+![Closing Price Over Time](projects/stock_market_analysis/visualizations/closing_price_over_time.png)
+![Moving AVG](projects/stock_market_analysis/visualizations/moving_avg.png)
+![Volatility](projects/stock_market_analysis/visualizations/volatility.png)
+![2008 Market Crash](projects/stock_market_analysis/visualizations/2008_financial_crisis.png)
+![Covid_19 Market Crash](projects/stock_market_analysis/visualizations/covid_19_market_crash.png)
