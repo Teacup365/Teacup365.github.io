@@ -4,13 +4,13 @@
 This analysis examined nearly 100 years of S&P 500 market data using Python, Pandas, and data visualization techniques to evaluate long-term market performance, volatility, and investor behavior. Through exploratory data analysis, feature engineering, moving average calculations, and rolling volatility measurements, key market trends and historical turning points were identified. The analysis also investigated major economic events, including the Great Depression, the 2008 Financial Crisis, and the COVID-19 market crash, to better understand how periods of uncertainty affect market performance.
 
 ## Business Question
-What is the overall trend?
-Highest closing price?
-Lowest closing price?
-Average trading volume?
-Best month?
-Worst month?
-Most volatile period?
+- What is the overall trend?
+- Highest closing price?
+- Lowest closing price?
+- Average trading volume?
+- Best month?
+- Worst month?
+- Most volatile period?
 
 ## Tools Used
 - Python / Pandas
