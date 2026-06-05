@@ -31,7 +31,7 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 
 
 ## Dashboard / Visuals
-![Dashboard Screenshot](../images/folder-name/image-name.png)
+![Tableau_Dashboard_link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
 
 ## Final Recommendation
 - Incentivize long-term contracts.
