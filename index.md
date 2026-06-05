@@ -22,16 +22,13 @@ Programming:
 - Python (Pandas, NumPy)
 - Linux
 
-
 Data Analysis:
 - SQL
 - Excel
 - R
 
-
 Visualization:
 - Tableau
-
 
 Tools:
 - GitHub
@@ -39,14 +36,19 @@ Tools:
 - R Studio
 - Kaggle
 
-## Projects
+## Featured Projects
 
-### BellaBeat Fitness Data Analysis
-Tools: Google Sheets, SQL
+### [Bellabeat Fitness Data Analysis](projects/bellabeat_case_study/bellabeat.md)
+Analyzed smart device usage data to identify activity, sleep, and wellness trends using Excel, SQL, and Tableau.
 
-This project analyzes smart device usage trends to provide marketing insights for BellaBeat.
+### [Telco Customer Churn Analysis](projects/telco_customer_churn/telco_customer_churn.md)
+Identified major churn drivers including contract type, tenure, payment method, and tech support usage using BigQuery and Tableau.
 
-[View Project](https://github.com/Teacup365/Teacup365.github.io/blob/main/projects/bellabeat_case_study/bellabeat.md)
+### [Sales & Revenue Performance Dashboard](projects/superstore_sales/superstore_sales.md)
+Built an interactive Tableau dashboard analyzing revenue, profit, customer segments, regional performance, and discount impact.
+
+### [Stock Market EDA with Python](projects/stock_market_analysis/stock_market_analysis.md)
+Used Python, Pandas, and visualization techniques to analyze market trends, volatility, daily returns, and historical performance.
 
 ---
 
