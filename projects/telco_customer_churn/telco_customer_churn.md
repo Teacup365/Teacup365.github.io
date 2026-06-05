@@ -1,0 +1,41 @@
+# Telco Customer Churn
+
+## Overview
+Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau to identify key drivers of customer attrition within a telecommunications company. Cleaned and transformed customer-level data, performed exploratory data analysis, and developed an interactive dashboard to evaluate churn patterns across contract types, customer tenure, internet service offerings, payment methods, support services, and pricing behavior.
+
+## Business Question
+- Identify factors contributing to customer churn
+- Analyze customer retention trends
+- Segment high-risk customer groups
+- Develop actionable business recommendations 
+
+## Tools Used
+- SQL / BigQuery
+- Tableau
+- Python / Pandas
+- Excel
+
+## Process
+1. Cleaned the data
+2. Explored trends
+3. Built visualizations
+4. Created recommendations
+
+## Key Insights
+- Customers on month-to-month contracts demonstrated substantially higher churn rates compared to customers on longer-term agreements, indicating that contract commitment plays a significant role in customer retention.
+- Churn rates were highest among customers within their first year of service, suggesting that onboarding experience and early-stage customer engagement are critical opportunities for improving retention. 
+- Customers subscribed to fiber optic internet services exhibited elevated churn rates relative to other internet service categories, potentially indicating concerns related to pricing, service expectations, or customer satisfaction. 
+- Customers utilizing electronic check payment methods experienced the highest churn rates, while customers enrolled in automatic payment methods showed stronger retention behavior and greater account stability. 
+- Customers without access to technical support services demonstrated significantly higher churn rates, highlighting the importance of customer support and service engagement in long-term retention strategies. 
+- Customers with higher monthly charges generally exhibited greater churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer attrition among higher-revenue customer segments.
+
+
+## Dashboard / Visuals
+![Dashboard Screenshot](../images/folder-name/image-name.png)
+
+## Final Recommendation
+- Incentivize long-term contracts.
+- Improve onboarding during the first year. 
+- Investigate fiber service satisfaction issues. 
+- Promote tech support and auto-pay adoption. 
+- Develop retention campaigns for high-risk customers.
