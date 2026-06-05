@@ -35,7 +35,7 @@ Customer purchasing behavior differs across segments, with some segments contrib
 
 
 ## Dashboard / Visuals
-![Dashboard Screenshot](../images/folder-name/image-name.png)
+![Tableau_Dashboard_Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
 
 ## Final Recommendation
 - Optimize Discount Strategy
