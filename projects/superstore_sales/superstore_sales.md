@@ -4,11 +4,11 @@
 Developed an interactive business intelligence dashboard to evaluate sales trends, profitability, customer segments, regional performance, and discount effectiveness. Utilized SQL for data analysis and Tableau for dashboard development, incorporating interactive filters and dashboard actions to enable dynamic exploration of business performance metrics.
 
 ## Business Question
-How is the business performing overall? 
-What drives profit? 
-Which products/customers are most valuable? 
-Where are losses occurring? 
-What trends exist over time? 
+- How is the business performing overall? 
+- What drives profit? 
+- Which products/customers are most valuable? 
+- Where are losses occurring? 
+- What trends exist over time? 
 
 ## Tools Used
 - SQL / BigQuery
@@ -35,7 +35,7 @@ Customer purchasing behavior differs across segments, with some segments contrib
 
 
 ## Dashboard / Visuals
-![Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
+[Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
 
 ## Final Recommendation
 - Optimize Discount Strategy
