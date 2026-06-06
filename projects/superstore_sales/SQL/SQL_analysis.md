@@ -1,6 +1,6 @@
 ## Cleaning
 
-![Removing Duplicates](/projects/superstore_sales/SQL/checking_duplicates.csv)
+[Removing Duplicates](/projects/superstore_sales/SQL/checking_duplicates.csv)
 
 [Cleaned Table](/projects/superstore_sales/SQL/cleaned_data.csv)
 
