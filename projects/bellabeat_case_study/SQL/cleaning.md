@@ -1,9 +1,5 @@
-[1st query](/projects/bellabeat_case_study/SQL/1st bellabeat query.sql)
-
-[2nd query](/projects/bellabeat_case_study/SQL/2nd bellabeat query.sql)
-
-[3rd query](/projects/bellabeat_case_study/SQL/3rd bellabeat query.sql)
-
-[4th query](/projects/bellabeat_case_study/SQL/4th bellabeat query.sql)
-
-[5th query](/projects/bellabeat_case_study/SQL/5th bellabeat query.sql)
+1st query
+```
+CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.dailyactivityclean` AS
+SELECT DISTINCT *
+FROM `avid-lacing-483619-b2.bellabeat.dailyactivity`;
