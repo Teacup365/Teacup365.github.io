@@ -1,4 +1,4 @@
-[View SQL Queries](projects/bellabeat_case_study/SQL/analysis/bellabeat_activity_level_agerages.sql)
+![View SQL Queries](projects/bellabeat_case_study/SQL/analysis/bellabeat_activity_level_agerages.sql)
 
 [View SQL Queries](projects/bellabeat_case_study/SQL/analysis/bellabeat_average_steps_by_day_of_week.sql)
 
