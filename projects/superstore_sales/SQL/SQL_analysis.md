@@ -1,6 +1,6 @@
 ## Cleaning
 
-[Removing Duplicates](/projects/superstore_sales/SQL/checking_duplicates.csv)
+![Removing Duplicates](/projects/superstore_sales/SQL/checking_duplicates.csv)
 
 [Cleaned Table](/projects/superstore_sales/SQL/cleaned_data.csv)
 
@@ -37,7 +37,7 @@
 
 [Top 10 by Revenue](/projects/superstore_sales/SQL/top_10_by_revenue.csv)
 
-[Top Customers by Revenue](/)
+[Top Customers by Revenue](/projects/superstore_sales/SQL/top_customers_by_revnue.csv)
 
 [Total Orders](/projects/superstore_sales/SQL/total_orders.csv)
 
