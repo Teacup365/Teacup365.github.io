@@ -12,10 +12,15 @@ The data used in this analysis comes from the Fitbit Fitness Tracker Data datase
 The dataset includes multiple metrics such as:
 
 •	Daily steps 
+
 •	Calories burned 
+
 •	Activity minutes 
+
 •	Sleep duration 
+
 •	Time spent sedentary 
+
 
 Although the dataset provides valuable insights into smart device usage patterns, it has limitations. The sample size is relatively small and the data was collected in 2016, which may limit how representative it is of current fitness tracking behavior.
 
