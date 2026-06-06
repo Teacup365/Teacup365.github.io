@@ -44,7 +44,7 @@ Based on these findings, recommended actions include incentivizing long-term con
 [SQL Analysis](/projects/telco_customer_churn/SQL/SQL.md)
 
 ## Dashboard / Visuals
-[Tableau Dashboard Link]((/https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
+[Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
 
 ## Final Recommendation
 - Incentivize long-term contracts.
