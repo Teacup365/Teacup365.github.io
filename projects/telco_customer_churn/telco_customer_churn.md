@@ -9,6 +9,15 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 - Segment high-risk customer groups
 - Develop actionable business recommendations 
 
+Customer retention is a critical driver of profitability within the telecommunications industry. This project analyzed customer churn behavior to identify the primary factors contributing to customer attrition and uncover opportunities for improving retention.
+
+Using SQL in Google BigQuery, customer-level data was cleaned, transformed, and analyzed to evaluate the relationship between churn and various customer attributes, including contract type, tenure, internet service, payment method, technical support usage, and monthly charges. The resulting insights were visualized through an interactive dashboard developed in Tableau Public.
+
+The analysis revealed that customers on month-to-month contracts experienced significantly higher churn rates than customers on longer-term agreements. Churn was also concentrated among customers within their first year of service, highlighting onboarding and early engagement as critical retention opportunities. Additional findings showed elevated churn among fiber optic customers, electronic check users, and customers without technical support services. Furthermore, higher-paying customers demonstrated increased churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer retention.
+
+Based on these findings, recommended actions include incentivizing long-term contracts, strengthening onboarding initiatives, expanding customer support engagement, encouraging automatic payment enrollment, and developing targeted retention campaigns for high-risk customer segments.
+
+
 ## Tools Used
 - SQL / BigQuery
 - Tableau
