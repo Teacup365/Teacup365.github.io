@@ -1,5 +1,5 @@
 # Telco Customer Churn
-📄[Case Study](projects/telco_customer_churn/case_study/case_study.md)
+📄[Case Study](/projects/telco_customer_churn/case_study/case_study.md)
 
 ## Overview
 Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau to identify key drivers of customer attrition within a telecommunications company. Cleaned and transformed customer-level data, performed exploratory data analysis, and developed an interactive dashboard to evaluate churn patterns across contract types, customer tenure, internet service offerings, payment methods, support services, and pricing behavior.
