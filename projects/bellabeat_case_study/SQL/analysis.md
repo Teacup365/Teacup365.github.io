@@ -1,4 +1,5 @@
 Activity Level Avg
+'''sql
 SELECT
 
   AVG(VeryActiveMinutes) AS avg_very_active,
