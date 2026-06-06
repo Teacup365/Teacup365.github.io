@@ -40,7 +40,7 @@ Developed an interactive business intelligence dashboard to evaluate sales trend
 💻[SQL Analysis](/projects/superstore_sales/SQL/SQL_analysis.md)
 
 ## Dashboard / Visuals
-📊[View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
+📊[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1)
 
 ## Final Recommendation
 
