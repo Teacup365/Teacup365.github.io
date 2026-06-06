@@ -1,5 +1,5 @@
 # Superstore Sales Analysis
-📄[Case Study](/projects/superstore_sales/superstore_sales.md)
+📄[Case Study](/projects/superstore_sales/case_study/case_study.md)
 
 ## Overview
 
