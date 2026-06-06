@@ -37,6 +37,7 @@ Short-term and long-term moving averages effectively identified periods of marke
 The 2008 Financial Crisis resulted in a prolonged market decline and recovery period, whereas the COVID-19 market crash produced a sharp decline followed by a comparatively rapid recovery. These differences demonstrate how economic conditions and policy responses influence market behavior.
 
 ##Python Analysis
+
 [Python Analysis Link](projects/stock_market_analysis/python/stock_market_analysis.ipynb)
 
 ## Dashboard / Visuals
