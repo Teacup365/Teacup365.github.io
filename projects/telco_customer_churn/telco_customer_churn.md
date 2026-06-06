@@ -27,12 +27,12 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 
 
 ## Key Insights
-- Customers on month-to-month contracts demonstrated substantially higher churn rates compared to customers on longer-term agreements, indicating that contract commitment plays a significant role in customer retention.
-- Churn rates were highest among customers within their first year of service, suggesting that onboarding experience and early-stage customer engagement are critical opportunities for improving retention. 
-- Customers subscribed to fiber optic internet services exhibited elevated churn rates relative to other internet service categories, potentially indicating concerns related to pricing, service expectations, or customer satisfaction. 
-- Customers utilizing electronic check payment methods experienced the highest churn rates, while customers enrolled in automatic payment methods showed stronger retention behavior and greater account stability. 
-- Customers without access to technical support services demonstrated significantly higher churn rates, highlighting the importance of customer support and service engagement in long-term retention strategies. 
-- Customers with higher monthly charges generally exhibited greater churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer attrition among higher-revenue customer segments.
+- Customers on month-to-month contracts demonstrated substantially higher churn rates
+- Churn rates were highest among customers within their first year of service
+- Customers subscribed to fiber optic internet services exhibited elevated churn rates relative to other internet service categories
+- Customers utilizing electronic check payment methods experienced the highest churn rates
+- Customers without access to technical support services demonstrated significantly higher churn rates
+- Customers with higher monthly charges generally exhibited greater churn behavior
 
 
 ## Analysis
