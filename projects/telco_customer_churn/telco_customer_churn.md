@@ -31,6 +31,7 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 
 ## Analysis
 [Python Analysis](projects/telco_customer_churn/python)
+
 [SQL Analysis](projects/telco_customer_churn/SQL)
 
 ## Dashboard / Visuals
