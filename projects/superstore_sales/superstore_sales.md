@@ -43,7 +43,7 @@ Customer purchasing behavior differs across segments, with some segments contrib
 [SQL Analysis](/projects/superstore_sales/SQL/SQL_analysis.md)
 
 ## Dashboard / Visuals
-[Tableau Dashboard Link]((www.public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
+📊 [View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
 
 ## Final Recommendation
 - Optimize Discount Strategy
