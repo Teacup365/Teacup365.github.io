@@ -1,22 +1,16 @@
 # Telco Customer Churn
+📄[Case Study](projects/telco_customer_churn/case_study/case_study.md)
 
 ## Overview
 Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau to identify key drivers of customer attrition within a telecommunications company. Cleaned and transformed customer-level data, performed exploratory data analysis, and developed an interactive dashboard to evaluate churn patterns across contract types, customer tenure, internet service offerings, payment methods, support services, and pricing behavior.
+
 
 ## Business Question
 - Identify factors contributing to customer churn
 - Analyze customer retention trends
 - Segment high-risk customer groups
-- Develop actionable business recommendations 
-
-Customer retention is a critical driver of profitability within the telecommunications industry. This project analyzed customer churn behavior to identify the primary factors contributing to customer attrition and uncover opportunities for improving retention.
-
-Using SQL in Google BigQuery, customer-level data was cleaned, transformed, and analyzed to evaluate the relationship between churn and various customer attributes, including contract type, tenure, internet service, payment method, technical support usage, and monthly charges. The resulting insights were visualized through an interactive dashboard developed in Tableau Public.
-
-The analysis revealed that customers on month-to-month contracts experienced significantly higher churn rates than customers on longer-term agreements. Churn was also concentrated among customers within their first year of service, highlighting onboarding and early engagement as critical retention opportunities. Additional findings showed elevated churn among fiber optic customers, electronic check users, and customers without technical support services. Furthermore, higher-paying customers demonstrated increased churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer retention.
-
-Based on these findings, recommended actions include incentivizing long-term contracts, strengthening onboarding initiatives, expanding customer support engagement, encouraging automatic payment enrollment, and developing targeted retention campaigns for high-risk customer segments.
-
+- Develop actionable business recommendations
+  
 
 ## Tools Used
 - SQL / BigQuery
@@ -24,11 +18,13 @@ Based on these findings, recommended actions include incentivizing long-term con
 - Python / Pandas
 - Excel
 
+
 ## Process
 1. Cleaned the data
 2. Explored trends
 3. Built visualizations
 4. Created recommendations
+
 
 ## Key Insights
 - Customers on month-to-month contracts demonstrated substantially higher churn rates compared to customers on longer-term agreements, indicating that contract commitment plays a significant role in customer retention.
@@ -38,13 +34,16 @@ Based on these findings, recommended actions include incentivizing long-term con
 - Customers without access to technical support services demonstrated significantly higher churn rates, highlighting the importance of customer support and service engagement in long-term retention strategies. 
 - Customers with higher monthly charges generally exhibited greater churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer attrition among higher-revenue customer segments.
 
-## Analysis
-[Python Analysis](/projects/telco_customer_churn/python/customer_churn.ipynb)
 
-[SQL Analysis](/projects/telco_customer_churn/SQL/SQL.md)
+## Analysis
+🐍[Python Notebook](/projects/telco_customer_churn/python/customer_churn.ipynb)
+
+💻[SQL Analysis](/projects/telco_customer_churn/SQL/SQL.md)
+
 
 ## Dashboard / Visuals
-📊 [View Interactive Tableau Dashboard](((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard)))
+📊 [View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
+
 
 ## Final Recommendation
 - Incentivize long-term contracts.
