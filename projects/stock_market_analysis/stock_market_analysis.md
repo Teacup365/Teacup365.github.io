@@ -33,17 +33,23 @@ Overall, the analysis demonstrates the long-term resilience of the U.S. equity m
 
 ## Key Insights
 - Long-Term Market Resilience
-  Despite experiencing multiple recessions, financial crises, and periods of extreme uncertainty, the S&P 500 exhibited a strong long-term upward trend across nearly a century of historical data.
+
+Despite experiencing multiple recessions, financial crises, and periods of extreme uncertainty, the S&P 500 exhibited a strong long-term upward trend across nearly a century of historical data.
 - Best and Worst Performing Years
-  The strongest annual performance occurred in 1933, with an average daily return of approximately 0.20%, reflecting the market recovery following the most severe phase of the Great Depression. The weakest performance occurred in 1931, when average daily returns fell to approximately -0.22%, illustrating the depth of the economic downturn.
+
+The strongest annual performance occurred in 1933, with an average daily return of approximately 0.20%, reflecting the market recovery following the most severe phase of the Great Depression. The weakest performance occurred in 1931, when average daily returns fell to approximately -0.22%, illustrating the depth of the economic downturn.
 - Extreme Volatility During the Great Depression
-  The highest rolling volatility in the dataset occurred on November 19, 1929. This period immediately followed the historic stock market crash and demonstrated the significant uncertainty and instability that characterized the early stages of the Great Depression.
+
+The highest rolling volatility in the dataset occurred on November 19, 1929. This period immediately followed the historic stock market crash and demonstrated the significant uncertainty and instability that characterized the early stages of the Great Depression.
 - Trading Volume Peaks During Financial Crises
-  The highest trading volume was recorded on October 10, 2008, during the Global Financial Crisis, when more than 11.4 billion shares changed hands. Elevated trading activity during this period reflected widespread investor concern and rapidly changing market expectations.
+
+The highest trading volume was recorded on October 10, 2008, during the Global Financial Crisis, when more than 11.4 billion shares changed hands. Elevated trading activity during this period reflected widespread investor concern and rapidly changing market expectations.
 - Moving Averages Highlight Major Market Cycles
-  Short-term and long-term moving averages effectively identified periods of market expansion and contraction. Extended periods below the 200-day moving average frequently aligned with broader economic downturns, while sustained recoveries above the long-term trend signaled renewed market strength.
+
+Short-term and long-term moving averages effectively identified periods of market expansion and contraction. Extended periods below the 200-day moving average frequently aligned with broader economic downturns, while sustained recoveries above the long-term trend signaled renewed market strength.
 - Financial Crises Produce Different Recovery Patterns
-  The 2008 Financial Crisis resulted in a prolonged market decline and recovery period, whereas the COVID-19 market crash produced a sharp decline followed by a comparatively rapid recovery. These differences demonstrate how economic conditions and policy responses influence market behavior.
+
+The 2008 Financial Crisis resulted in a prolonged market decline and recovery period, whereas the COVID-19 market crash produced a sharp decline followed by a comparatively rapid recovery. These differences demonstrate how economic conditions and policy responses influence market behavior.
 
 ## Python Analysis
 
