@@ -32,7 +32,7 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 ## Analysis
 [Python Analysis](/projects/telco_customer_churn/python/customer_churn.ipynb)
 
-[SQL Analysis](/projects/telco_customer_churn/SQL)
+[SQL Analysis](/projects/telco_customer_churn/SQL/SQL.md)
 
 ## Dashboard / Visuals
 [Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
