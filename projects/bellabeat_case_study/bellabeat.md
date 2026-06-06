@@ -1,6 +1,6 @@
 # BellaBeat Case Study
 
-📄[Case Study]()
+📄[Case Study](projects/bellabeat_case_study/cade_study/case_study.md)
 
 
 ## Business Task
