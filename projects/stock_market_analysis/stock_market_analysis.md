@@ -1,5 +1,5 @@
 # Stock Market Analysis
-📄[Case Study](projects/stock_market_analysis/stock_market_analysis.md)
+📄[Case Study](/projects/stock_market_analysis/stock_market_analysis.md)
 
 ## Overview
 
