@@ -12,6 +12,12 @@ This analysis examined nearly 100 years of S&P 500 market data using Python, Pan
 - Worst month?
 - Most volatile period?
 
+The analysis found that the strongest average annual market performance occurred in 1933, with an average daily return of approximately 0.20%, reflecting the market recovery that followed the depths of the Great Depression. Conversely, 1931 produced the weakest annual performance, with an average daily return of approximately -0.22%, highlighting the severity of the economic contraction during that period.
+Trading activity reached its highest recorded level on October 10, 2008, during the Global Financial Crisis, when daily volume exceeded 11.4 billion shares. This surge in activity reflected heightened uncertainty and significant investor reactions to rapidly changing market conditions.
+Volatility analysis revealed that the most turbulent period in the dataset occurred during November 1929, immediately following the stock market crash that marked the beginning of the Great Depression. Elevated volatility persisted throughout this period as markets experienced significant declines and uncertainty.
+Overall, the analysis demonstrates the long-term resilience of the U.S. equity market despite periods of severe economic disruption. While market crises generate substantial declines and volatility in the short term, historical data shows that markets have consistently recovered and continued their long-term growth trajectory.
+
+
 ## Tools Used
 - Python / Pandas
 - Excel
