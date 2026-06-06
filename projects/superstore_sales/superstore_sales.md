@@ -23,14 +23,19 @@ Developed an interactive business intelligence dashboard to evaluate sales trend
 
 ## Key Insights
 - Revenue Performance
+
 Sales demonstrate consistent growth over time, indicating sustained customer demand and business expansion. Periodic fluctuations suggest the presence of seasonal purchasing patterns that may influence revenue performance throughout the year.
 - Regional Profitability
+
 Profitability varies significantly across regions, with certain markets generating a disproportionately larger share of total profit. These regions represent key growth opportunities and may serve as benchmarks for operational strategies in lower-performing markets.
 - Product Category Analysis
+
 Technology products generate the strongest sales performance and contribute substantially to overall revenue. Other categories exhibit varying levels of profitability, suggesting opportunities to optimize product mix and inventory allocation.
 - Discount Impact
+
 Higher discount levels are frequently associated with reduced profitability. While discounts may support sales volume, excessive discounting appears to erode margins and should be evaluated carefully to ensure long-term profitability.
 - Customer Segmentation
+
 Customer purchasing behavior differs across segments, with some segments contributing significantly more revenue than others. Understanding these patterns can help guide marketing efforts, customer retention strategies, and resource allocation.
 
 ## SQL Analysis
