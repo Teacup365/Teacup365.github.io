@@ -30,9 +30,9 @@ Conducted an end-to-end customer churn analysis using SQL, BigQuery, and Tableau
 - Customers with higher monthly charges generally exhibited greater churn behavior, suggesting that pricing sensitivity and perceived service value may influence customer attrition among higher-revenue customer segments.
 
 ## Analysis
-[Python Analysis](projects/telco_customer_churn/python)
+[Python Analysis](/projects/telco_customer_churn/python)
 
-[SQL Analysis](projects/telco_customer_churn/SQL)
+[SQL Analysis](/projects/telco_customer_churn/SQL)
 
 ## Dashboard / Visuals
 [Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/TelcoCustomerChurn_17793766858880/TelcoCustomerChurnAnalysisDashboard))
