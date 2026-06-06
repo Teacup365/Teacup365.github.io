@@ -58,4 +58,4 @@ LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/tianee-carnakie-3a3
 
 Email: 📧tianeecarnakie@gmail.com
 
-Resume: [Download Resume](projects/resume/Resme_Updated.pdf)
+Resume: [Download Resume](/projects/resume/Resume_Updated.pdf)
