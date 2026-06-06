@@ -33,6 +33,9 @@ Higher discount levels are frequently associated with reduced profitability. Whi
 - Customer Segmentation
 Customer purchasing behavior differs across segments, with some segments contributing significantly more revenue than others. Understanding these patterns can help guide marketing efforts, customer retention strategies, and resource allocation.
 
+## SQL Analysis
+
+[SQL Analysis](projects/superstore_sales/SQL)
 
 ## Dashboard / Visuals
 [Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
