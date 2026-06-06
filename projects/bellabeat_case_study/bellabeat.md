@@ -18,9 +18,9 @@ The dataset contains Fitbit data from 30 consenting users and includes informati
 
 Data was imported into a relational database and analyzed using SQL queries.
 
-[SQL Cleaning](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL)
+[SQL Cleaning](projects/bellabeat_case_study/SQL/cleaning.md)
 
-[SQL Analysis](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL)
+[SQL Analysis](projects/bellabeat_case_study/SQL/analysis.md)
 
 
 ## Process
