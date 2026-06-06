@@ -56,12 +56,15 @@ Finally, sleep data indicates that users average slightly under seven hours of s
 Based on the insights from this analysis, three key recommendations are proposed for Bellabeat.
 
 Recommendation 1: Promote Daily Activity Goals
-Bellabeat should emphasize step tracking and daily movement goals in its marketing campaigns. Since the average user does not reach the recommended step goal, the Bellabeat Leaf tracker could be promoted as a tool to help users stay motivated and reach daily activity targets.
+
+  Bellabeat should emphasize step tracking and daily movement goals in its marketing campaigns. Since the average user does not reach the recommended step goal, the Bellabeat Leaf tracker could be promoted as a tool to help users stay motivated and reach daily activity targets.
 
 Recommendation 2: Provide Personalized Health Insights
-Bellabeat could leverage its mobile app to deliver personalized insights regarding activity and sleep patterns. Weekly health summaries, progress reports, and reminders could encourage users to improve their habits over time.
+
+  Bellabeat could leverage its mobile app to deliver personalized insights regarding activity and sleep patterns. Weekly health summaries, progress reports, and reminders could encourage users to improve their habits over time.
 
 Recommendation 3: Encourage Weekend Activity Challenges
-Since activity tends to decrease on Sundays, Bellabeat could introduce weekend wellness challenges that motivate users to remain active. Social challenges, app notifications, and rewards could increase engagement and encourage consistent activity throughout the week.
+
+  Since activity tends to decrease on Sundays, Bellabeat could introduce weekend wellness challenges that motivate users to remain active. Social challenges, app notifications, and rewards could increase engagement and encourage consistent activity throughout the week.
 
 
