@@ -19,21 +19,9 @@ The dataset contains Fitbit data from 30 consenting users and includes informati
 Data was imported into a relational database and analyzed using SQL queries.
 
 [SQL Cleaning](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL)
+
 [SQL Analysis](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL).
 
-Example query used to classify activity levels:
-
-SELECT
-
-AVG(VeryActiveMinutes) AS avg_very_active,
-
-AVG(FairlyActiveMinutes) AS avg_fairly_active,
-
-AVG(LightlyActiveMinutes) AS avg_lightly_active,
-
-AVG(SedentaryMinutes) AS avg_sedentary
-
-FROM `avid-lacing-483619-b2.bellabeat.dailyactivityclean`;
 
 ## Process
 
