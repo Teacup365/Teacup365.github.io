@@ -1,41 +1,9 @@
-1st query
-- CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.dailyactivityclean` AS
-- SELECT DISTINCT *
-- FROM `avid-lacing-483619-b2.bellabeat.dailyactivity`;
+[1st query](/projects/bellabeat_case_study/SQL/1st bellabeat query.sql)
 
-2nd query
-- CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.dailyactivityclean` AS
-- SELECT DISTINCT
-- Id,
-- ActivityDate,
-- FORMAT_DATE('%A', ActivityDate) AS DayOfWeek,
-- TotalSteps,
-- TotalDistance,
-- Calories,
-- VeryActiveMinutes,
-- FairlyActiveMinutes,
-- LightlyActiveMinutes,
-- SedentaryMinutes
-- FROM `avid-lacing-483619-b2.bellabeat.dailyactivity`;
+[2nd query](/projects/bellabeat_case_study/SQL/2nd bellabeat query.sql)
 
-3rd query
-- SELECT
-- COUNTIF(TotalSteps IS NULL) AS missing_steps,
-- COUNTIF(Calories IS NULL) AS missing_calories,
-- COUNTIF(ActivityDate IS NULL) AS missing_dates
-- FROM `avid-lacing-483619-b2.bellabeat.dailyactivityclean`;
+[3rd query](/projects/bellabeat_case_study/SQL/3rd bellabeat query.sql)
 
-4th query
-- CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.sleepydayclean` AS
-- SELECT
-- Id,
-- DATE(SleepDay) AS SleepDate,
-- TotalSleepRecords,
-- TotalMinutesAsleep,
-- TotalTimeInBed
-- FROM `avid-lacing-483619-b2.bellabeat.sleepyday`;
+[4th query](/projects/bellabeat_case_study/SQL/4th bellabeat query.sql)
 
-5th query
-- CREATE OR REPLACE TABLE `avid-lacing-483619-b2.bellabeat.sleepydayclean` AS
-- SELECT DISTINCT *
-- FROM `avid-lacing-483619-b2.bellabeat.sleepydayclean`;
+[5th query](/projects/bellabeat_case_study/SQL/5th bellabeat query.sql)
