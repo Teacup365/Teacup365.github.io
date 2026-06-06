@@ -35,7 +35,7 @@ Customer purchasing behavior differs across segments, with some segments contrib
 
 ## SQL Analysis
 
-[SQL Analysis](/projects/superstore_sales/SQL)
+[SQL Analysis](/projects/superstore_sales/SQL/SQL_analysis.md)
 
 ## Dashboard / Visuals
 [Tableau Dashboard Link]((https://public.tableau.com/app/profile/tianee.carnakie/viz/SuperstoreSalesRevenuePerformanceDashboard/Dashboard1))
