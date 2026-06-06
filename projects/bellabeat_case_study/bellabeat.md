@@ -20,7 +20,7 @@ Data was imported into a relational database and analyzed using SQL queries.
 
 [SQL Cleaning](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL)
 
-[SQL Analysis](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL).
+[SQL Analysis](https://github.com/Teacup365/Teacup365.github.io/tree/main/projects/bellabeat_case_study/SQL)
 
 
 ## Process
