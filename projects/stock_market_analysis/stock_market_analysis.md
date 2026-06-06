@@ -38,7 +38,7 @@ The 2008 Financial Crisis resulted in a prolonged market decline and recovery pe
 
 ## Python Analysis
 
-[Python Analysis Link](projects/stock_market_analysis/python/stock_market_analysis.ipynb)
+[Python Analysis Link](/projects/stock_market_analysis/python/stock_market_analysis.ipynb)
 
 ## Dashboard / Visuals
 ![Daily Returns](/projects/stock_market_analysis/visualizations/avg_annual_daily_returns.png)
